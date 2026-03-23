@@ -162,21 +162,6 @@ AVN-Shipping-FZE/
 
 ---
 
-## 👨‍💻 Developer
-
-**Your Name**
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: youremail@gmail.com
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 🏢 About AVN Shipping FZE
-
-AVN Shipping FZE is a freight forwarding company based in the 
-United Arab Emirates, specializing in air, sea, and land freight services.
-
----
 
 ## 📄 License
 
